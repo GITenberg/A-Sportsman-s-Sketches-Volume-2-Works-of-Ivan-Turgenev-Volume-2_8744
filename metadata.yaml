@@ -1,0 +1,45 @@
+_repo: A-Sportsman-s-Sketches-Volume-2-Works-of-Ivan-Turgenev-Volume-2_8744
+contributor:
+  translator:
+    agent_name: Garnett, Constance
+    alias: Black, Constance Clara
+    birthdate: 1861
+    deathdate: 1946
+    gutenberg_agent_id: '2858'
+    url: http://www.gutenberg.org/2009/agents/2858
+    wikipedia:
+    - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+    - http://en.wikipedia.org/wiki/Constance_Garnett
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Тургенев, Иван Сергеевич
+    - Tourgueneff, Ivan
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peasants -- Russia -- Fiction'
+- !lcsh 'Country life -- Russia -- Fiction'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcc 'PG'
+tableOfContents: Tatyana Borissovna and her nephew -- Death -- The singers -- Piotr
+  Petrovitch Karataev -- The tryst -- The Hamlet of the Shtchigri District -- Tchertop-Hanov
+  and Nedopyuskin. -- The end of Tchertop-Hanov -- A living relic -- The rattling
+  of wheels -- The forest and the steppe.
+title: 'A Sportsman''s Sketches, Volume 2
+
+  Works of Ivan Turgenev, Volume 2'
+url: http://www.gutenberg.org/ebooks/8744
